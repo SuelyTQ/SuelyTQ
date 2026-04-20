@@ -1,4 +1,5 @@
 # 👋 Hola, soy Suely T.
+![Banner](banner.png)
 
 🇵🇪 Peruana viviendo en 🇮🇹 Italia | Ex-importadora | En formación Full Stack Developer & 🤖 IA 
 
